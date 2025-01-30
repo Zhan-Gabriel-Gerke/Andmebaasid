@@ -16,3 +16,6 @@ CHECK
 SQL - Structure Query Language
 DDL - Date Definition Language - CREATE TABLE, ALTER TABLE
 DML - Data Manipulation Language - INSERT INTO, UPDATE, DELETE
+
+SQL Server Management Studio
+XAMPP / phpMyAdmin
