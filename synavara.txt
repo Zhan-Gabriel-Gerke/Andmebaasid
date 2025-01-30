@@ -1,1 +1,7 @@
 test
+
+Type of data:
+1. Sumbol/Text (VARCHAR(25), CHAR(5), TEXT)
+2. Arv (INT, SMALLINT, Decimal(5, 2)- 5 kus on 5 koik arvud ja 2 - peale koma
+3. Loogika (bit, bool, boolean, true/false)
+4. Kuupaeva (date/time, date, time)
