@@ -1,0 +1,2 @@
+--SQL SALVESTATUD PROTSEDUURID-- Funktsioonid - mitu SQL kasku kaivitakse jarjest
+--SQL SERVER 
